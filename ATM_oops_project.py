@@ -26,3 +26,5 @@ class atm():
             print(f"Your current balance is: ${balance}")
 sbi = atm
 sbi.credit(1)
+
+add my changes
